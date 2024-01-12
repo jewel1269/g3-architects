@@ -1,0 +1,74 @@
+.head{
+    background-color: antiquewhite;
+    width: 1920px;
+height: 1322px;
+}
+.deva{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+}
+nav > ul{
+    display: flex;
+    gap: 25px ;
+    list-style: none;
+}
+.middle{
+    justify-content: center;
+    margin-left: 350px;
+    
+}
+.middle1{
+    color: #727272;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+margin-right: 546px;
+margin-left: 250px;
+}
+.middle2{
+    margin-left: 180px;
+    position: relative;
+    top: 20px;
+    width: 862px;
+color: #131313;
+text-align: center;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+}
+.jewel{
+    margin-left: 50px;
+}
+.habib{
+    margin-left: 530px;
+    height: 40px;
+    width: 180px;
+height: 64px;
+border-radius: 8px;
+background: #FF900E;
+}
+.shamu{
+    color:  #131313;
+text-align: center;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+}
+li{
+    color:  #424242;
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+}
+.picture1{
+    width: 1440px;
+height: 700px;
+border-radius: 12px;
+margin-left:240px;
+margin-top: 70px;
+}
