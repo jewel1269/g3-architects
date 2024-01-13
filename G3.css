@@ -207,9 +207,54 @@ font-weight: 400;
 line-height: normal;
 padding: 40px;
 }
+.section-title{
+    width: 468px;
+color: #131313;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+}
+.Features{
+    display: flex;
+    margin-top: 150px;
+    gap: 120px;
+    margin-left: 300px;
+}
+.section-title1{
+    color: var(--Dark-01, #131313);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.amad{
+    width: 514px;
+color:  #727272;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
+.evan{
+    width: 342px;
+height: 200px;
+border-radius: 8px;
+background: #FF900E;
+position: relative;
+left:1000px;
+bottom: 120px;
+width: 258px;
+color: #FFF;
+text-align: center;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
 
+color: #FFF;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
 
-
+}
 
 
 
